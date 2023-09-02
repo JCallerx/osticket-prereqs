@@ -26,7 +26,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 <img />
 
-![image](https://github.com/CopaceticWill/osticket-prereqs/assets/137100082/200114cd-9327-4861-80dc-37b395f54d76)
+![250393230-3dfb0b5b-74a9-48c4-88e6-460a52d07527](https://github.com/JCallerx/osticket-prereqs/assets/143349237/231a6db2-e8de-4172-90d1-15ddcee81e39)
+
 
 </p>
 <p>
@@ -42,7 +43,8 @@ The image above shows all the prerequisites downloaded to begin our installation
 
 <p>
 
-![image](https://github.com/CopaceticWill/osticket-prereqs/assets/137100082/c44b2489-daa9-4b1c-b60e-bb3439c20dc2)
+![250301935-c44b2489-daa9-4b1c-b60e-bb3439c20dc2](https://github.com/JCallerx/osticket-prereqs/assets/143349237/3f5ae848-4838-46ad-a313-df993a6a273e)
+
 
 </p>
 <p>
@@ -57,7 +59,9 @@ In this step, I registered PHP from within IIS. The steps taken are the followin
 
 <p>
 
-![image](https://github.com/CopaceticWill/osticket-prereqs/assets/137100082/770b9115-7c63-4e69-914a-8950c8ce72d6)
+
+
+![1](https://github.com/JCallerx/osticket-prereqs/assets/143349237/54c4f059-b99b-45d0-bf2b-4b088bdc2837)
 
 </p>
 <p>
