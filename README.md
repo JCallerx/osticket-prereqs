@@ -61,7 +61,8 @@ In this step, I registered PHP from within IIS. The steps taken are the followin
 
 
 
-![1](https://github.com/JCallerx/osticket-prereqs/assets/143349237/54c4f059-b99b-45d0-bf2b-4b088bdc2837)
+![Annotation 2023-09-02 142007](https://github.com/JCallerx/osticket-prereqs/assets/143349237/228517c8-e698-4f60-beea-7366415d79a9)
+
 
 </p>
 <p>
